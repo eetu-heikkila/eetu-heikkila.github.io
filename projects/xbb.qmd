@@ -1,0 +1,15 @@
+---
+title: Calibration of $X \to b\bar{b}$ tagging efficiency in CMS scouting data
+---
+
+This was my longest running research project. It was supervised by Santeri Laurila and Patin Inkaew (HIP) and Mauro Donega and Rainer Wallny (ETH Zürich). I worked on the project during my summer at CERN in 2025, and continued it until March 2026 as a Research Project while at ETH Zürich.
+
+
+Before I outline the work, I think it is useful to define some jargon first. 
+```{=html}
+<figure style="text-align: center;">
+  <iframe src="../images/xbb/boosted_jets.pdf" width="580px" height="200px">
+  </iframe>
+  <figcaption style="margin-top: 0.5rem; color: var(--bs-secondary-color, #6c757d);">Lorentz focusing of hadronic resonance decays causees the two-prong decays to be clustered as a single jet at high transverse momentum</figcaption>
+</figure>
+```

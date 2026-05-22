@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "920c6a51"
+  },
+  "about.qmd": {
+    "about.html": "73ed521d"
+  },
+  "projects.qmd": {
+    "projects.html": "c2aac514"
+  },
+  "projects/beer_can.qmd": {
+    "beer_can.html": "1e7a7c66"
+  },
+  "projects/xbb.qmd": {
+    "xbb.html": "43089da1"
+  }
+}

@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "physicist@ethz"
+  navbar:
+    background: "#0b0f14"
+    foreground: "#d6deeb"
+    search: false
+    left:
+      - text: Home
+        href: index.qmd
+      # - text: Research
+      #   href: research.qmd
+      - text: Timeline
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: false
+    page-layout: full

@@ -1,0 +1,29 @@
+---
+title: "About me"
+---
+
+Hi — I’m Eetu.
+
+I'm a master's student in the specialized <a href="https://ipa.phys.ethz.ch/education/joint-master-program-in-high-energy-physics.html" class="highlight">High Energy Physics</a> programme between ETH Zürich and École Polytechnique Paris.
+
+I have professional experience in both quantum technology and particle physics, and I'm especially interested in the computational and statistical side of modern experimental physics. In the long run, I hope to work in experimental particle physics.
+
+Right now, I’m most fascinated by
+
+* large-scale distributed computing,
+* trigger systems and real-time analysis,
+* modern deep learning,
+* statistical inference,
+* Higgs physics,
+* neutrino physics.
+
+Additionally I have NLO interests in quantum computing, numerical methods and low-level computing. I also care a lot about climate action and the future of renewable energy systems.
+
+I love to spend my free time in nature. I have been bouldering since 2021, and try to get as much outdoor climbing time per year as possible. Most recently we took a 10 day bouldering trip to Magic Wood with a group of friends. A shared hobby in my family is training gundogs for retrieving work. I train my own labrador retriever of 6 years called Minni. 
+
+
+
+
+
+You can reach me via email at <a href="mailto:eetu.heikkilae@gmail.com">eetu.heikkilae@gmail.com</a>.
+

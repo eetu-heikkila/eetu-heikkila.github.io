@@ -1,0 +1,9 @@
+---
+title: "Showcased projects and work"
+---
+
+* <a href="projects/beer_can.qmd" class="highlight">Measuring X-ray spectra with a beer can</a>
+* Higgs to diphoton mock statistical analysis
+* <a href="projects/xbb.qmd" class="highlight">Calibration of $X \to b\bar{b}$ tagging efficiency in CMS scouting data</a>
+* Simulating fluids on the terminal
+* Seminar on Experimental Foundations of Particle Physics
