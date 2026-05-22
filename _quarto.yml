@@ -24,3 +24,6 @@ format:
     css: styles.css
     toc: false
     page-layout: full
+    include-in-header: 
+      - text: |
+          <script data-goatcounter="https://eetu-heikkila.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
