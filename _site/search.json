@@ -7,13 +7,6 @@
     "text": "2026 – 2027\n        MSc. High Energy Physics\n        École Polytechnique Paris (Dual Diploma with ETH Zürich)\n        \n        \n      \n    \n\n  \n    \n      \n    \n    \n      Summer 2026\n      Research and Innovation Trainee\n      Bluefors Oy, Helsinki\n      \n        Experimental low-temperature physics\n      \n    \n  \n\n  \n    \n      \n    \n    \n      2025 – 2026\n      MSc. High Energy Physics\n      ETH Zürich (Dual Diploma with École Polytechnique)\n      \n        Highlighted coursework:\n        - Neutrino Physics\n        - Phenomenology of Particle Physics I & II\n        - Experimental Foundations of Particle Physics\n        - Quantum Field Theory II\n        - Statistical Methods and Analysis Techniques in Experimental Physics\n        - Data Science in Techno-socio-economic Systems\n      \n    \n  \n\n  \n    \n      \n    \n    \n      2025 – 2026\n      Research Assistant\n      CMS Experiment, CERN (Funded by smartHEP, HIP)\n      \n      \n\\(X \\to b\\bar{b}\\) scale factor calibration for Scouting Global Particle Transformer\n      \n    \n  \n\n  \n    \n      \n    \n    \n      Summer 2024\n      Research and Development Trainee\n      Bluefors Oy, Helsinki\n      \n        Developed a python library for numerical simulation of dilution refrigerator thermal evolution\n      \n    \n  \n\n    \n    \n      \n    \n    \n      Summer 2023\n      Vacuum Assembly Trainee\n      Bluefors Oy, Helsinki\n      \n        Constructed electrical and mechanical subcomponents for the vacuum cycle of the dilution refrigerator\n      \n    \n  \n\n  \n    \n      \n    \n    \n      2022 – 2025\n      BSc. Physics\n      University of Helsinki\n      \n        Graduated with 255/180 credits.\n        Highlighted coursework:\n        - Introduction to Machine Learning\n        - Neural Networks and Deep Learning\n        - Numerical Methods in Scientific Computing\n        - Computing Methods in High Energy Physics\n        - Electrodynamics I & II\n        - Quantum Computing\n        - Quantum Mechanics Ia - IIb\n        - Laboratory Course on Instrumentation"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About me",
-    "section": "",
-    "text": "Hi — I’m Eetu.\nI’m a master’s student in the specialized High Energy Physics programme between ETH Zürich and École Polytechnique Paris.\nI have professional experience in both quantum technology and particle physics, and I’m especially interested in the computational and statistical side of modern experimental physics. In the long run, I hope to work in experimental particle physics.\nRight now, I’m most fascinated by\n\nlarge-scale distributed computing,\ntrigger systems and real-time analysis,\nmodern deep learning,\nstatistical inference,\nHiggs physics,\nneutrino physics.\n\nAdditionally I have NLO interests in quantum computing, numerical methods and low-level computing. I also care a lot about climate action and the future of renewable energy systems.\nI love to spend my free time in nature. I have been bouldering since 2021, and try to get as much outdoor climbing time per year as possible. Most recently we took a 10 day bouldering trip to Magic Wood with a group of friends. A shared hobby in my family is training gundogs for retrieving work. I train my own labrador retriever of 6 years called Minni.\nYou can reach me via email at eetu.heikkilae@gmail.com."
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Showcased projects and work",
@@ -28,6 +21,13 @@
     "text": "An article by Brücken et al. (2024) demonstrated that a proportional counter could be constructed from cheap and easy to source materials, sufficient for use in student laboratories. My colleague and I replicated their work, and used the setup to identify the commonly cited peaks in the X-ray spectra of \\(^{55}\\)Fe, \\(^{133}\\)Ba, and \\(^{241}\\)Am under 100 keV.\nThe detector operates on the proportional counter design. A thin copper wire is threaded through the beer can, acting as anode, with the aluminium shell acting as cathode. The can is filled with P10 gas, and the anode and cathode are subject to a large potential difference creating a strong electric field. When exposed to ionizing radiation, electrons are liberated from the gas and multiplied by the field as they drift towards the anode wire. Readout electronics are connected to the anode wire in order to record the ionization events’ signal."
   },
   {
+    "objectID": "projects/beer_can.html#calibration",
+    "href": "projects/beer_can.html#calibration",
+    "title": "Measuring X-ray spectra with a beer can",
+    "section": "Calibration",
+    "text": "Calibration\nA large part of the work was calibrating the detector and determining its optimal operating regime.\nA multi-channel analyzer was used for the readout electronics. It was first necessary to relate the charge measured by the detector to the multi-channel analyzer’s channel number. This was achieved by feeding known voltage pulses to the detector using a tail-pulse generator. The voltage pulse could be related to the collected charge in the detector via \\(Q = CV\\) (assuming that the decay time of the collected charge in the preamplifier was shorter than the pulse time), with \\(C = 1\\,\\mathrm{pf}\\) the capacitance of the preamplifier’s feedback circuit."
+  },
+  {
     "objectID": "projects/xbb.html",
     "href": "projects/xbb.html",
     "title": "Calibration of \\(X \\to b\\bar{b}\\) tagging efficiency in CMS scouting data",
@@ -35,10 +35,10 @@
     "text": "This was my longest running research project. It was supervised by Santeri Laurila and Patin Inkaew (HIP) and Mauro Donega and Rainer Wallny (ETH Zürich). I worked on the project during my summer at CERN in 2025, and continued it until March 2026 as a Research Project while at ETH Zürich.\nBefore I outline the work, I think it is useful to define some jargon first.\n\n  \n  \n  Lorentz focusing of hadronic resonance decays causees the two-prong decays to be clustered as a single jet at high transverse momentum"
   },
   {
-    "objectID": "projects/beer_can.html#calibration",
-    "href": "projects/beer_can.html#calibration",
-    "title": "Measuring X-ray spectra with a beer can",
-    "section": "Calibration",
-    "text": "Calibration\nA large part of the work was calibrating the detector and determining its optimal operating regime.\nA multi-channel analyzer was used for the readout electronics. It was first necessary to relate the charge measured by the detector to the multi-channel analyzer’s channel number. This was achieved by feeding known voltage pulses to the detector using a tail-pulse generator. The voltage pulse could be related to the collected charge in the detector via \\(Q = CV\\) (assuming that the decay time of the collected charge in the preamplifier was shorter than the pulse time), with \\(C = 1\\,\\mathrm{pf}\\) the capacitance of the preamplifier’s feedback circuit."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Hi — I’m Eetu.\nI’m a master’s student in the specialized High Energy Physics programme between ETH Zürich and École Polytechnique Paris.\nI have professional experience in both quantum technology and particle physics, and I’m especially interested in the computational and statistical side of modern experimental physics. In the long run, I hope to work in experimental particle physics.\nRight now, I’m most fascinated by\n\nlarge-scale distributed computing,\ntrigger systems and real-time analysis,\nmodern deep learning,\nstatistical inference,\nHiggs physics,\nneutrino physics.\n\nAdditionally I have NLO interests in quantum computing, numerical methods and low-level computing. I also care a lot about climate action and the future of renewable energy systems.\nI love to spend my free time in nature. I have been bouldering since 2021, and try to get as much outdoor climbing time per year as possible. Most recently we took a 10 day bouldering trip to Magic Wood with a group of friends. A shared hobby in my family is training gundogs for retrieving work. I train my own labrador retriever of 6 years called Minni.\nYou can reach me via email at eetu.heikkilae@gmail.com."
   }
 ]
